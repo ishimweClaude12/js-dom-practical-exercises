@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(43, 42, 42);
+  color: white;
+}
+.container {
+  margin: 3rem 4rem;
+  border: 1px solid white;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.time-boxes {
+  height: auto;
+  padding: 2rem;
+  display: flex;
+  gap: 4px;
+}
+.box {
+  height: 50px;
+
+  background-color: white;
+}
+.input {
+  height: 100%;
+}

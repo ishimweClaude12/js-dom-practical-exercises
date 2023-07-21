@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: rgb(219, 208, 104);
+}
+.container {
+  padding: 2rem;
+}
+.btn {
+  padding: 0.5rem;
+  color: rgb(79, 74, 1);
+  background: white;
+}
+.counter {
+  background-color: rgb(68, 64, 64);
+  text: black;
+  width: 30%;
+  height: 60px;
+  padding: 40px;
+  font-size: xx-large;
+  margin-bottom: 20px;
+}
+
+.hide {
+  display: none;
+}

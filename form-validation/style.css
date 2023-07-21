@@ -1,0 +1,18 @@
+.container {
+  width: auto;
+  background-color: black;
+  padding: 2rem;
+  color: white;
+  margin: auto 2rem;
+}
+.container form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+body {
+  height: 100vh;
+}
+#error {
+  background-color: red;
+}
